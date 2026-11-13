@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>JAVA</h1>
+    <h1>Javita</h1>
     <h2>Resumen de JAVA</h2>
     <p>Java es un lenguaje de programación de alto nivel, orientado a objetos y multiplataforma, 
         que se utiliza para desarrollar diferentes tipos de aplicaciones, como programas de computadora, aplicaciones 
