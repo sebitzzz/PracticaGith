@@ -31,9 +31,6 @@
         <p>La herencia permite que una clase pueda obtener características
         y métodos de otra. Es útil porque podemos reutilizar código y
         evitar escribir lo mismo varias veces.</p>
-    <h1>Conclusión</h1>
-        <p> En general, estos temas me ayudaron a recordar cómo funciona Java
-        evitar escribir lo mismo varias veces.</p>
     <h2>Conclusión</h2>
         <p>En general, estos temas me ayudaron a recordar cómo funciona Java
         y cómo podemos utilizar sus herramientas para crear programas.
